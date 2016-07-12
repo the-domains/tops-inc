@@ -1,4 +1,3 @@
-layout_spectrum: 0.04169308487325907
 typography_spectrum: 0.8633749021682888
 color:
   brandStrength: 0.6231038484256715
@@ -6,9 +5,23 @@ color:
   saturation: 0.5163890460971743
   rhythmicContrast: 0.6390740270726383
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/73d2897c-04f9-4a6c-a1f1-f9aa4dfb08fb.jpg
+  appId: www.facebook.com/topsincflorida
+layout_spectrum: 0.04169308487325907
+author:
+  name: Tops Inc
+  email: sales@topsinc.net
+  url: www.topsinc.net
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7899014-a780-4013-a3cc-e0380b1b1820.jpg
 name: Tops Inc
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5ca28d8-aa73-48b9-8d81-2361eb0e6c44.jpg
+title: 'providing not just a service but an experience '
