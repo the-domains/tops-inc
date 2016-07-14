@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[providing not just a service but an experience ]]></title>
         <description><![CDATA[providing not just a service but an experience ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tops-inc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 20:06:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Jul 2016 20:11:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tops-inc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Man Behind The Seams]]></title>
             <description><![CDATA[<article><h1>Man Behind The Seams</h1><p>Since being established in 1999, the goal of Tops Inc is to provide the consumer with a truly bespoke automotive interior. Utilizing the skills of our head creative artist, David Leon and the needs of the client, combing together originality and functionality while always pushing the boundaries of design, making the impossible achievable. Here you will find expertise derived from a life long passion of customizing cars, along with a desire to learn and expand upon modern technology, and the usage of functional premium materials. We welcome you to Tops Inc, join us in making your desires a reality...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e533e669-a167-445b-8370-2a0fd2d01299.jpg"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e533e669-a167-445b-8370-2a0fd2d01299.jpg</link>
             <guid isPermaLink="false">79eee89d-0db6-45c7-bab6-ec4f09800ea1</guid>
-            <pubDate>Thu, 14 Jul 2016 20:06:44 GMT</pubDate>
+            <pubDate>Thu, 14 Jul 2016 20:11:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
