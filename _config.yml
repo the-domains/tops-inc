@@ -1,20 +1,20 @@
-typography_spectrum: 0.2657385354395956
+typography_spectrum: 0.6889242408797145
 color:
-  brandStrength: 0.9038044279441237
-  lightness: 0.5451371856033802
-  saturation: 0.04167209845036268
-  rhythmicContrast: 0.4916868594009429
+  brandStrength: 0.258404002757743
+  lightness: 0.003315732581540942
+  saturation: 0.7712646969594061
+  rhythmicContrast: 0.7374439702834934
   brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/73d2897c-04f9-4a6c-a1f1-f9aa4dfb08fb.jpg
   appId: www.facebook.com/topsincflorida
-layout_spectrum: 0.5500190323218703
+layout_spectrum: 0.1730916548985988
 author:
   name: Tops Inc
   email: sales@topsinc.net
