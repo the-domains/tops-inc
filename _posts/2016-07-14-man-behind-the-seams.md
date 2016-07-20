@@ -1,4 +1,13 @@
 ---
+datePublished: '2016-07-20T18:47:49.681Z'
+sourcePath: _posts/2016-07-14-man-behind-the-seams.md
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e533e669-a167-445b-8370-2a0fd2d01299.jpg
+author: []
+via: {}
+dateModified: '2016-07-20T18:47:49.219Z'
+title: Man behind the Seams
+publisher: {}
 description: >-
   Since being established in 1999, our main objective is to provide the consumer
   with a truly bespoke automotive interior. Utilizing the skills of our head
@@ -11,15 +20,6 @@ description: >-
   automobile exterior and interior insuring the final product is not only
   cohesive but stands on its own merit. We welcome you to Tops Inc, join us in
   making your desires a reality.
-dateModified: '2016-07-20T18:47:39.126Z'
-datePublished: '2016-07-20T18:47:39.812Z'
-title: Man behind the Seams
-author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e533e669-a167-445b-8370-2a0fd2d01299.jpg
-sourcePath: _posts/2016-07-14-man-behind-the-seams.md
-publisher: {}
-via: {}
 starred: false
 inFeed: true
 hasPage: false
