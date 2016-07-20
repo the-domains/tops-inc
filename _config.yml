@@ -27,6 +27,10 @@ navigation:
     url: 2016-07-14-man-behind-the-seams.html
     name: Behind the Seams
     type: content
+  - id: ce70841d-8f87-4dc6-8ede-092e50246b06
+    url: 2016-07-18-getting-an-estimate.html
+    name: First Visit
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5ca28d8-aa73-48b9-8d81-2361eb0e6c44.jpg
 title: 'Not Just a Service but an Experience '
