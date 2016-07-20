@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-20T20:26:53.281Z'
+datePublished: '2016-07-20T20:30:52.009Z'
 sourcePath: _posts/2016-07-18-getting-an-estimate.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a3635df-573f-4da2-be45-747fd58699cc.jpg
 author: []
 via: {}
-dateModified: '2016-07-20T20:26:51.596Z'
+dateModified: '2016-07-20T20:30:51.856Z'
 title: Getting an Estimate
 publisher: {}
 description: >-
@@ -35,6 +35,6 @@ Need an estimate for a custom interior? Okay well here's what to expect... From 
 We can't wait to meet you, providing an experience that will not only be unforgettable but probably your favorite memory as you (we) build the car of your dreams.
 
 **Contact us to schedule your estimate **or drive on over! We love surprise visits!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a3635df-573f-4da2-be45-747fd58699cc.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc4e0905-b286-4460-a96a-d36094f6ddb0.png)
 
 >
