@@ -23,13 +23,13 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7899014-a780-4013-a3cc-e0380b1b1820.jpg
 name: Tops Inc
 navigation:
-  - id: 79eee89d-0db6-45c7-bab6-ec4f09800ea1
-    url: 2016-07-14-man-behind-the-seams.html
-    name: Behind the Seams
-    type: content
   - id: ce70841d-8f87-4dc6-8ede-092e50246b06
     url: 2016-07-18-getting-an-estimate.html
     name: First Visit
+    type: content
+  - id: 79eee89d-0db6-45c7-bab6-ec4f09800ea1
+    url: 2016-07-14-man-behind-the-seams.html
+    name: Behind the Seams
     type: content
   - id: 'https://www.instagram.com/topsinc/'
     url: 'https://www.instagram.com/topsinc/'
