@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-20T21:40:34.176Z'
+datePublished: '2016-07-20T21:48:12.934Z'
 sourcePath: _posts/2016-07-14-man-behind-the-seams.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-20T21:40:33.375Z'
+dateModified: '2016-07-20T21:48:12.795Z'
 title: Behind the Seams
 publisher: {}
 description: >-
@@ -20,7 +20,7 @@ description: >-
   cohesive but stands on its own merit. We welcome you to Tops Inc, join us in
   making your desires a reality.
 starred: false
-url: man-behind-the-seams/index.html
+url: behind-the-seams/index.html
 _type: MediaObject
 
 ---
