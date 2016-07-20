@@ -1,16 +1,16 @@
 ---
+datePublished: '2016-07-20T19:13:49.085Z'
+sourcePath: _posts/2016-07-18-getting-an-estimate.md
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a3635df-573f-4da2-be45-747fd58699cc.jpg
+author: []
+via: {}
+dateModified: '2016-07-20T19:13:48.416Z'
+title: Getting an Estimate
+publisher: {}
 description: >-
   Unlike other upholstery shops, Tops Inc aims to provide not only a service but
   an experience...
-dateModified: '2016-07-20T19:13:34.493Z'
-datePublished: '2016-07-20T19:13:35.354Z'
-title: Getting an Estimate
-author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a3635df-573f-4da2-be45-747fd58699cc.jpg
-sourcePath: _posts/2016-07-18-getting-an-estimate.md
-publisher: {}
-via: {}
 starred: false
 inFeed: true
 hasPage: false
