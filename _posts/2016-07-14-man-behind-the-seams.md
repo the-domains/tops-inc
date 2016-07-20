@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-20T21:48:12.934Z'
+datePublished: '2016-07-20T21:48:21.251Z'
 sourcePath: _posts/2016-07-14-man-behind-the-seams.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-20T21:48:12.795Z'
+dateModified: '2016-07-20T21:48:21.143Z'
 title: Behind the Seams
 publisher: {}
 description: >-
