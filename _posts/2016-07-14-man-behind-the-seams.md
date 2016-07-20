@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-20T18:48:34.016Z'
+datePublished: '2016-07-20T18:49:24.227Z'
 sourcePath: _posts/2016-07-14-man-behind-the-seams.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e533e669-a167-445b-8370-2a0fd2d01299.jpg
 author: []
 via: {}
-dateModified: '2016-07-20T18:48:32.746Z'
+dateModified: '2016-07-20T18:49:23.769Z'
 title: Man behind the Seams
 publisher: {}
 description: >-
@@ -47,6 +47,7 @@ Today, the once 10x15 work space has grown in size and client base considerably 
 
 David Leon is now backed with over 25 years of knowledge, problem solving, artistic design and material usage on not only automobile interiors but **Aviation**, **Motorcycle**, and **Marine **upholstery. He has continued his obsession by utilizing modern technology, workshops, and seminars to grow along with today's new and improved methods, while always practicing the "right way to do things", because trust us, there is a wrong way. While he tailors each design to the client's tastes he never forgets the boy who just wanted to create a unique original design, puling from classic to modern techniques, his love for each car is always present. Will your vehicle be his next love affair?
 
-Check out **[Instagram][0]** or**Facebook **to get to know us even better! We look forward to connecting with you.
+Check out **[Instagram][0]** or**[Facebook ][1]**to get to know us even better! We look forward to connecting with you.
 
 [0]: https://www.instagram.com/topsinc/ "Instagram"
+[1]: https://www.facebook.com/topsincflorida/ "Facebook"
