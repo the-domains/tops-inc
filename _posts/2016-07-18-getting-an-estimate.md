@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-20T21:45:41.442Z'
+datePublished: '2016-07-20T21:48:09.093Z'
 sourcePath: _posts/2016-07-18-getting-an-estimate.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-20T21:45:04.459Z'
+dateModified: '2016-07-20T21:48:08.996Z'
 title: Getting an Estimate
 publisher: {}
 description: >-
