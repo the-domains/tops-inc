@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-20T20:30:52.009Z'
+datePublished: '2016-07-20T20:41:14.333Z'
 sourcePath: _posts/2016-07-18-getting-an-estimate.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a3635df-573f-4da2-be45-747fd58699cc.jpg
 author: []
 via: {}
-dateModified: '2016-07-20T20:30:51.856Z'
+dateModified: '2016-07-20T20:27:09.347Z'
 title: Getting an Estimate
 publisher: {}
 description: >-
