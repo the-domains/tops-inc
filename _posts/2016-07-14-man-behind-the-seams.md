@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-20T18:50:39.051Z'
+datePublished: '2016-07-20T18:51:18.885Z'
 sourcePath: _posts/2016-07-14-man-behind-the-seams.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e533e669-a167-445b-8370-2a0fd2d01299.jpg
 author: []
 via: {}
-dateModified: '2016-07-20T18:50:38.487Z'
+dateModified: '2016-07-20T18:51:18.351Z'
 title: Man behind the Seams
 publisher: {}
 description: >-
