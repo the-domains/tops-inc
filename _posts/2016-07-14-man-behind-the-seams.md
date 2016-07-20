@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-20T18:49:24.227Z'
+datePublished: '2016-07-20T18:50:39.051Z'
 sourcePath: _posts/2016-07-14-man-behind-the-seams.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e533e669-a167-445b-8370-2a0fd2d01299.jpg
 author: []
 via: {}
-dateModified: '2016-07-20T18:49:23.769Z'
+dateModified: '2016-07-20T18:50:38.487Z'
 title: Man behind the Seams
 publisher: {}
 description: >-
@@ -45,9 +45,10 @@ Starting out as a young teenager, David wanted to utilize the early work release
 Fast forward to 1999, now located in West Palm Beach, here David set his mind on opening his first shop. Talk about humble beginnings! It's been said you couldn't open the doors to any vehicle while still inside the tiny bay. Small may be an understatement, but that wasn't an issue for Mr. Leon. He had control, creative control to design and build truly custom interiors, and to him that's all that mattered. At the height of Import Nights, and street tuners, Tops Inc completed one awarding winning interior after another. His once teenage boy dream of having his own shop like Filmo's was now a reality, with accolades and magazine spreads to boot.   
 Today, the once 10x15 work space has grown in size and client base considerably but let's not forget Leon's talent has too.
 
-David Leon is now backed with over 25 years of knowledge, problem solving, artistic design and material usage on not only automobile interiors but **Aviation**, **Motorcycle**, and **Marine **upholstery. He has continued his obsession by utilizing modern technology, workshops, and seminars to grow along with today's new and improved methods, while always practicing the "right way to do things", because trust us, there is a wrong way. While he tailors each design to the client's tastes he never forgets the boy who just wanted to create a unique original design, puling from classic to modern techniques, his love for each car is always present. Will your vehicle be his next love affair?
+David Leon is now backed with over 25 years of knowledge, problem solving, artistic design and material usage on not only automobile interiors but **[Aviation][0]**[, ][0]**[Motorcycle][0]**[, and ][0]**[Marine ][0]**[upholstery][0]. He has continued his obsession by utilizing modern technology, workshops, and seminars to grow along with today's new and improved methods, while always practicing the "right way to do things", because trust us, there is a wrong way. While he tailors each design to the client's tastes he never forgets the boy who just wanted to create a unique original design, puling from classic to modern techniques, his love for each car is always present. Will your vehicle be his next love affair?
 
-Check out **[Instagram][0]** or**[Facebook ][1]**to get to know us even better! We look forward to connecting with you.
+Check out **[Instagram][1]** or**[Facebook ][2]**to get to know us even better! We look forward to connecting with you.
 
-[0]: https://www.instagram.com/topsinc/ "Instagram"
-[1]: https://www.facebook.com/topsincflorida/ "Facebook"
+[0]: https://www.facebook.com/topsincflorida/photos "Photo Albums"
+[1]: https://www.instagram.com/topsinc/ "Instagram"
+[2]: https://www.facebook.com/topsincflorida/ "Facebook"
