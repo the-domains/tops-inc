@@ -22,6 +22,11 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7899014-a780-4013-a3cc-e0380b1b1820.jpg
 name: Tops Inc
+navigation:
+  - id: 79eee89d-0db6-45c7-bab6-ec4f09800ea1
+    url: 2016-07-14-man-behind-the-seams.html
+    name: Behind the Seams
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5ca28d8-aa73-48b9-8d81-2361eb0e6c44.jpg
 title: 'Not Just a Service but an Experience '
