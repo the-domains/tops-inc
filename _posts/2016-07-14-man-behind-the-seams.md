@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-20T18:47:49.681Z'
+datePublished: '2016-07-20T18:48:10.527Z'
 sourcePath: _posts/2016-07-14-man-behind-the-seams.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e533e669-a167-445b-8370-2a0fd2d01299.jpg
 author: []
 via: {}
-dateModified: '2016-07-20T18:47:49.219Z'
+dateModified: '2016-07-20T18:48:10.070Z'
 title: Man behind the Seams
 publisher: {}
 description: >-
@@ -36,6 +36,7 @@ Since being established in 1999, our main objective is to provide the consumer w
 To learn more about what to expect from your first visit, please click **here** for more details.
 
 Thank you for visiting our page, be sure to **connect with us**. No spam just good old fashion _Hellos'_ every now & then. For more about David continue reading below...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69ceda1f-ad52-41d7-b114-d83551d70b8c.jpe)
 
 More, about the man behind the seams...
 
