@@ -11,13 +11,15 @@ description: >-
   automobile exterior and interior insuring the final product is not only
   cohesive but stands on its own merit. We welcome you to Tops Inc, join us in
   making your desires a reality.
-dateModified: '2016-07-18T16:40:44.288Z'
-datePublished: '2016-07-18T16:40:44.621Z'
+dateModified: '2016-07-20T18:47:39.126Z'
+datePublished: '2016-07-20T18:47:39.812Z'
 title: Man behind the Seams
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e533e669-a167-445b-8370-2a0fd2d01299.jpg
 sourcePath: _posts/2016-07-14-man-behind-the-seams.md
+publisher: {}
+via: {}
 starred: false
 inFeed: true
 hasPage: false
@@ -31,12 +33,11 @@ _type: MediaObject
 
 Since being established in 1999, our main objective is to provide the consumer with a truly bespoke automotive interior. Utilizing the skills of our head creative artist, David Leon, while combing together originality and functionality as we meet the needs of each individual client. While pushing the boundaries of auto upholstery, making the impossible achievable; we believe stunning design and functionality _always_ go hand and hand. Our work reflects a love for innovation and often collaboration, among the usage of modern functional materials. Our goal is to blur the lines between an automobile exterior and interior insuring the final product is not only cohesive but stands on its own merit. We welcome you to Tops Inc, join us in making your desires a reality.
 
-Unlike other upholstery shops, Tops Inc aims to provide not only a service but an experience. To learn more about what to expect from your first visit, please click **here** for more details.
+To learn more about what to expect from your first visit, please click **here** for more details.
 
 Thank you for visiting our page, be sure to **connect with us**. No spam just good old fashion _Hellos'_ every now & then. For more about David continue reading below...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac99efbb-6023-4600-94a6-ccfd567efdfa.jpe)
 
-More about the man behind the seams...
+More, about the man behind the seams...
 
 Starting out as a young teenager, David wanted to utilize the early work release program offered in his school. Unlike other teens he had little desire to work at McDonald's or a grocery store. Upon suggestion from his father, he would seek employment from Filmo's Upholstery, owned by a neighbor of David's family for many years in his modest Tampa neighborhood. Classic cars were the daily jobs. Not surprisingly, a young Mr. Leon was hooked. He still remembers the first time he did a complete interior, his own 300zx! As David states it "those seats were awful! It was so hard at first but once done I really felt a sense of accomplishment. I was able to put my own twist on the original seat design."
 
