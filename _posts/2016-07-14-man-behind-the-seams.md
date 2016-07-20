@@ -1,11 +1,9 @@
 ---
-datePublished: '2016-07-20T20:41:14.324Z'
+datePublished: '2016-07-20T20:59:41.089Z'
 sourcePath: _posts/2016-07-14-man-behind-the-seams.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e533e669-a167-445b-8370-2a0fd2d01299.jpg
 author: []
 via: {}
-dateModified: '2016-07-20T20:27:42.487Z'
+dateModified: '2016-07-20T20:59:40.554Z'
 title: Man behind the Seams
 publisher: {}
 description: >-
@@ -20,10 +18,9 @@ description: >-
   automobile exterior and interior insuring the final product is not only
   cohesive but stands on its own merit. We welcome you to Tops Inc, join us in
   making your desires a reality.
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: man-behind-the-seams/index.html
 _type: MediaObject
 
 ---
