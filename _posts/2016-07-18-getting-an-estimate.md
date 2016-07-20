@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-20T19:14:02.489Z'
+datePublished: '2016-07-20T19:14:13.768Z'
 sourcePath: _posts/2016-07-18-getting-an-estimate.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a3635df-573f-4da2-be45-747fd58699cc.jpg
 author: []
 via: {}
-dateModified: '2016-07-20T19:14:01.848Z'
+dateModified: '2016-07-20T19:14:12.875Z'
 title: Getting an Estimate
 publisher: {}
 description: >-
@@ -22,7 +22,7 @@ _type: MediaObject
 
 # Getting an Estimate
 
-_**Unlike other upholstery shops, Tops Inc aims to provide not only a service but an experience...**_
+**Unlike other upholstery shops, Tops Inc aims to provide not only a service but an experience...**
 
 Regardless if you are here for a complete custom interior or a minor seat repair, Tops Inc gets the job done. If your vehicle needs help fixing an inherent problem, often caused by other shops, stand assured we've got you covered with that too! With over 25 years of excellent craftsmanship we look forward to meeting your high expectations, after all we don't call ourselves _Tops _for nothing.
 
